@@ -17,6 +17,7 @@ header{
     text-align: center;
     padding-top: 15px;
     padding-bottom: 10px;
+    margin-bottom: 10px;
     width: 495px;
     float: left;
     background-color: #ebebeb;
@@ -38,13 +39,17 @@ aside{
     width:445px;
     margin-left: 20px;
     float: left;
-    padding-bottom:60px; 
+    padding-bottom:160px; 
+    padding-top: 15px;
     display: block;
     color: #777;
     text-align: center;
     background-color: #ebebeb; 
 }
 footer{
+    padding-top:20px;
+    padding-bottom: 20px;
+    text-align: center;
     width: 100%;
     float: left;
     display: block;
