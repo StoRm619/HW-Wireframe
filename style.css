@@ -9,40 +9,44 @@ header{
     background-color: #ebebeb;
     text-align: center;
     width: 100%;
-    padding: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin-bottom: 15px;
 }
 #section{
     text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    width: 60%;
-    margin-right: 5%;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    width: 495px;
     float: left;
     background-color: #ebebeb;
 }
 #article{
     color: #ebebeb;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 10px;
     background-color: #777;
 }
 aside{
+    padding-top: 10px;
+    margin: 10px;
     color: #777;
     background-color: #ebebeb;
 }
 #right{
+    width:445px;
+    margin-left: 20px;
     float: left;
+    padding-bottom:60px; 
     display: block;
-    margin-left: 5%;
     color: #777;
+    text-align: center;
     background-color: #ebebeb; 
 }
-.clearfix::after{
-    content: "";
-    display: block;
-    cle
-}
 footer{
+    width: 100%;
+    float: left;
     display: block;
     color: #777;
     background-color: #ebebeb;
